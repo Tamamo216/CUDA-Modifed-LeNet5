@@ -1,3 +1,4 @@
+**This is the modified version utilizing CUDA which is based on the [mini-dnn-cpp framework](https://github.com/iamhankai/mini-dnn-cpp)**
 # mini-dnn-cpp
 **mini-dnn-cpp** is a C++ demo of deep neural networks. It is implemented purely in C++, whose only dependency, Eigen, is header-only. 
 
